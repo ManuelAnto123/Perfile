@@ -1,7 +1,4 @@
 # Bienvenido a mi  GITHUB  👋
-
-
-
 <!-- Banner Personalizado -->
 <img src="Gemini_Generated_Image_8olv8q8olv8q8olv.png" width="100%" alt="Manuel Rivera Banner" />
 
@@ -72,22 +69,27 @@ Soy un desarrollador enfocado en crear soluciones móviles de alto rendimiento y
 
 ---
 
-## 📊 Estadísticas de GitHub
+<h3 align="left">🔥 Mis Estadísticas</h3>
 
 <div align="center">
-
-<!-- REEMPLAZA 'TU_USUARIO' CON TU NOMBRE REAL DE GITHUB ABAJO -->
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&title_color=36BCF7&text_color=ffffff&hide_border=true" height="165"/>
-
+ 
 </div>
 
----
+###
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelAnto123&theme=tokyonight" width="100%" />
+</div>
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0175C2&height=100&section=footer" width="100%"/>
+###
 
-*"Construyendo el futuro, una línea de código a la vez."*
+| Most Lang |
+| ----------|
+| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertobcv&theme=onedark&show_icons=true&hide_border=true&layout=compact) | 
 
+
+</div>
+<div align="center">
+  <br/>
+  "Construyendo el futuro, una línea de código a la vez."
 </div>
