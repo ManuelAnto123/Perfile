@@ -1,99 +1,84 @@
-# 👋 Bienvenido a mi GitHub
+# Bienvenido a mi  GITHUB  👋
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=wave&color=0:36BCF7,100:0175C2&height=180&section=header&text=RobertoBCV&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Mobile+Developer;IoT+%7C+Arduino;Building+Digital+Solutions" />
+<!-- Banner Personalizado -->
+<img src="Gemini_Generated_Image_8olv8q8olv8q8olv.png" width="100%" alt="Manuel Rivera Banner" />
 
-<br/>
+<div id="header" align="center">
+<!-- Efecto de Escritura Dinámico -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Mobile+App+Expert+(Flutter+%26+Dart);IoT+%26+Arduino+Enthusiast" alt="Typing SVG" />
+</div>
 
-<img src="github-banner.png" width="80%"/>
+<!-- Redes Sociales-->
+<div id="header" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/facebook-green?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+</div>
 
+ <!-- gifphy-->
+ <div id="header" align="center">
+  </p>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDEycG5mbjkxN3d1azR6ZW94MHMyMDU5ZGJ4Z3JycGdwZmc5amlvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="200"/>
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 Perfil Profesional
 
-Soy desarrollador enfocado en crear soluciones eficientes combinando **software y hardware**.
+Soy un desarrollador enfocado en crear soluciones móviles de alto rendimiento y arquitecturas web escalables. Me apasiona la integración entre el hardware y el software para resolver problemas cotidianos.
 
-- 💻 Desarrollo web y móvil  
-- 📱 Aplicaciones modernas  
-- 🤖 Proyectos IoT con Arduino  
-- ⚡ Optimización de sistemas  
-
----
-
-## 🛠️ Tecnologías
-
-<div align="center">
-
-### 💻 Lenguajes
-<img src="https://skillicons.dev/icons?i=java,kotlin,js,php,python,swift" />
-
-### 🌐 Web
-<img src="https://skillicons.dev/icons?i=html,css" />
-
-### ⚙️ Herramientas
-<img src="https://skillicons.dev/icons?i=git,vscode" />
-
-### 🤖 IoT
-<img src="https://skillicons.dev/icons?i=arduino" />
-
-</div>
+*   **Mobile**: Especialista en el ecosistema de **Dart** y **Flutter**.
+*   **Backend**: Experiencia sólida desarrollando con **PHP (Laravel)** y **C#**.
+*   **Hardware**: Diseño y programación de prototipos utilizando **Arduino** y diversos sensores.
 
 ---
 
-## 🌐 Redes Sociales
+## 🛠️ Lenguajes de programación
 
-<div align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 📊 Estadísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=robertobcv&theme=tokyonight&show_icons=true&hide_border=true" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertobcv&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=robertobcv&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="200"><strong>Mobile</strong></td>
+    <td align="center" width="200"><strong>Backend</strong></td>
+    <td align="center" width="200"><strong>Database / Cloud</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=dart,flutter" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>IoT / Herramientas</strong></td>
+    <td align="center" colspan="2"><strong>Productivity</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=arduino" />
+    </td>
+    <td align="center" colspan="2">
+      <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,postman" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🐍 Actividad
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/robertobcv/robertobcv/output/github-contribution-grid-snake.svg" width="100%"/>
+<!-- REEMPLAZA 'TU_USUARIO' CON TU NOMBRE REAL DE GITHUB ABAJO -->
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&title_color=36BCF7&text_color=ffffff&hide_border=true" height="165"/>
 
 </div>
 
@@ -101,6 +86,8 @@ Soy desarrollador enfocado en crear soluciones eficientes combinando **software 
 
 <div align="center">
 
-✨ *"Construyendo soluciones reales con código."* ✨
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0175C2&height=100&section=footer" width="100%"/>
+
+*"Construyendo el futuro, una línea de código a la vez."*
 
 </div>
